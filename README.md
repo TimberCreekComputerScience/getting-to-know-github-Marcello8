@@ -1,7 +1,7 @@
 # Marcello Colla-Sanchez
 
-I like: SOmething
+I like: To play video games
 
 ## Another header
 
-Pizza is nice
+I also like to code and play gutair!
